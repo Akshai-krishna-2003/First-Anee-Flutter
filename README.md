@@ -7,3 +7,5 @@ A Flutter anniversary app with:
 - Backend email trigger (Flask + Resend)
 
 Built with love 💛
+
+Thanks boo - From Akshai
